@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Configuration
 SYMBOL = 'BTC-USD'
 START_DATE = '2020-01-01'
-END_DATE = '2023-01-01'
+END_DATE = '2025-02-18'
 
 # Fetch historical data
 def fetch_data(symbol, start, end):
